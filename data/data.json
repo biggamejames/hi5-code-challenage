@@ -1,0 +1,223 @@
+[
+  {
+    "title": "A New Hope",
+    "released": "May 25, 1977",
+    "poster": "//s3-us-west-1.amazonaws.com/hi5fechallenge/starwars-4.jpg",
+    "trailerID": "vZ734NWnAHA",
+    "universe": "starwars"
+  },
+  {
+    "title": "The Empire Strikes Back",
+    "released": "May 21, 1980",
+    "poster": "//s3-us-west-1.amazonaws.com/hi5fechallenge/starwars-5.jpg",
+    "trailerID": "JNwNXF9Y6kY",
+    "universe": "starwars"
+  },
+  {
+    "title": "Return of the Jedi",
+    "released": "May 25, 1983",
+    "poster": "//s3-us-west-1.amazonaws.com/hi5fechallenge/starwars-6.jpg",
+    "trailerID": "16YLjTkK5jE",
+    "universe": "starwars"
+  },
+  {
+    "title": "The Phantom Menace",
+    "released": "May 19, 1999",
+    "poster": "//s3-us-west-1.amazonaws.com/hi5fechallenge/starwars-1.jpg",
+    "trailerID": "bD7bpG-zDJQ",
+    "universe": "starwars"
+  },
+  {
+    "title": "Attack of the Clones",
+    "released": "May 16, 2002",
+    "poster": "//s3-us-west-1.amazonaws.com/hi5fechallenge/starwars-2.jpg",
+    "trailerID": "gYbW1F_c9eM",
+    "universe": "starwars"
+  },
+  {
+    "title": "Revenge of the Sith",
+    "released": "May 19, 2005",
+    "poster": "//s3-us-west-1.amazonaws.com/hi5fechallenge/starwars-3.jpg",
+    "trailerID": "5UnjrG_N8hU",
+    "universe": "starwars"
+  },
+  {
+    "title": "The Force Awakens",
+    "released": "December 18, 2015",
+    "poster": "//s3-us-west-1.amazonaws.com/hi5fechallenge/starwars-7.jpg",
+    "trailerID": "sGbxmsDFVnE",
+    "universe": "starwars"
+  },
+  {
+    "title": "The Last Jedi",
+    "released": "December 15, 2017",
+    "poster": "//s3-us-west-1.amazonaws.com/hi5fechallenge/starwars-8.jpg",
+    "trailerID": "Q0CbN8sfihY",
+    "universe": "starwars"
+  },
+  {
+    "title": "Rogue One: A Star Wars Story",
+    "released": "December 10, 2016",
+    "poster":
+      "//s3-us-west-1.amazonaws.com/hi5fechallenge/starwars-rogueone.jpg",
+    "trailerID": "frdj1zb9sMY",
+    "universe": "starwars"
+  },
+  {
+    "title": "Solo: A Star Wars Story",
+    "released": "May 25, 2018",
+    "poster": "//s3-us-west-1.amazonaws.com/hi5fechallenge/starwars-solo.jpg",
+    "trailerID": "dNW0B0HsvVs",
+    "universe": "starwars"
+  },
+  {
+    "title": "Iron Man",
+    "released": "May 2, 2008",
+    "poster":
+      "//s3-us-west-1.amazonaws.com/hi5fechallenge/iron-man-movie-poster-marvel-cinematic-universe-1038878.jpg",
+    "trailerID": "8hYlB38asDY",
+    "universe": "marvel"
+  },
+  {
+    "title": "The Incredible Hulk",
+    "released": "June 13, 2008",
+    "poster": "//s3-us-west-1.amazonaws.com/hi5fechallenge/incredible-hulk.jpg",
+    "trailerID": "xbqNb2PFKKA",
+    "universe": "marvel"
+  },
+  {
+    "title": "Iron Man 2",
+    "released": "May 7, 2010",
+    "poster":
+      "//s3-us-west-1.amazonaws.com/hi5fechallenge/iron_man_two_xlg.jpg",
+    "trailerID": "DIfgxIv5xmk",
+    "universe": "marvel"
+  },
+  {
+    "title": "Thor",
+    "released": "May 6, 2011",
+    "poster":
+      "//s3-us-west-1.amazonaws.com/hi5fechallenge/Thor_Official_Poster.jpg",
+    "trailerID": "JOddp-nlNvQ",
+    "universe": "marvel"
+  },
+  {
+    "title": "Captain America: The First Avenger",
+    "released": "July 22, 2011",
+    "poster":
+      "//s3-us-west-1.amazonaws.com/hi5fechallenge/captain-america-movie-poster-image.jpg",
+    "trailerID": "JerVrbLldXw",
+    "universe": "marvel"
+  },
+  {
+    "title": "Marvel's The Avengers",
+    "released": "May 4, 2012",
+    "poster":
+      "//s3-us-west-1.amazonaws.com/hi5fechallenge/2012_Avengers_Poster.jpg",
+    "trailerID": "NPoHPNeU9fc",
+    "universe": "marvel"
+  },
+  {
+    "title": "Iron Man 3",
+    "released": "May 3, 2013",
+    "poster":
+      "//s3-us-west-1.amazonaws.com/hi5fechallenge/iron_man_three_ver11_xlg.jpg",
+    "trailerID": "2CzoSeClcw0",
+    "universe": "marvel"
+  },
+  {
+    "title": "Thor: The Dark World",
+    "released": "November 8, 2013",
+    "poster":
+      "//s3-us-west-1.amazonaws.com/hi5fechallenge/thor_the_dark_world_ver2_xlg.jpg",
+    "trailerID": "npvJ9FTgZbM",
+    "universe": "marvel"
+  },
+  {
+    "title": "Captain America: The Winter Soldier",
+    "released": "April 4, 2014",
+    "poster":
+      "//s3-us-west-1.amazonaws.com/hi5fechallenge/captain-america-2-uk-poster.jpg",
+    "trailerID": "tbayiPxkUMM",
+    "universe": "marvel"
+  },
+  {
+    "title": "Guardians of the Galaxy",
+    "released": "August 1, 2014",
+    "poster": "//s3-us-west-1.amazonaws.com/hi5fechallenge/guardians.jpg",
+    "trailerID": "d96cjJhvlMA",
+    "universe": "marvel"
+  },
+  {
+    "title": "Avengers: Age of Ultron",
+    "released": "May 1, 2015",
+    "poster":
+      "//s3-us-west-1.amazonaws.com/hi5fechallenge/Avengers-Age-of-Ultron-Movie-Poster.jpg",
+    "trailerID": "U2fO094Kk58",
+    "universe": "marvel"
+  },
+  {
+    "title": "Ant-Man",
+    "released": "July 17, 2015",
+    "poster":
+      "//s3-us-west-1.amazonaws.com/hi5fechallenge/Ant-Man-Poster-6.jpg",
+    "trailerID": "pWdKf3MneyI",
+    "universe": "marvel"
+  },
+  {
+    "title": "Captain America: Civil War",
+    "released": "May 6, 2016",
+    "poster":
+      "//s3-us-west-1.amazonaws.com/hi5fechallenge/Captain-America-Civil-War-Movie-Poster-2.jpg",
+    "trailerID": "xnv__ogkt0M",
+    "universe": "marvel"
+  },
+  {
+    "title": "Doctor Strange",
+    "released": "November 4, 2016",
+    "poster":
+      "//s3-us-west-1.amazonaws.com/hi5fechallenge/doctor_strange_ver5_xlg.jpg",
+    "trailerID": "HSzx-zryEgM",
+    "universe": "marvel"
+  },
+  {
+    "title": "Guardians of the Galaxy Vol. 2",
+    "released": "May 5, 2017",
+    "poster":
+      "//s3-us-west-1.amazonaws.com/hi5fechallenge/guardians_of_the_galaxy_vol_two_new_poster3.jpeg",
+    "trailerID": "2LIQ2-PZBC8",
+    "universe": "marvel"
+  },
+  {
+    "title": "Spider-Man: Homecoming",
+    "released": "July 7, 2017",
+    "poster":
+      "//s3-us-west-1.amazonaws.com/hi5fechallenge/Spiderman-poster-7-large.jpg",
+    "trailerID": "8wNgphPi5VM",
+    "universe": "marvel"
+  },
+  {
+    "title": "Thor: Ragnarok",
+    "released": "November 3, 2017",
+    "poster":
+      "//s3-us-west-1.amazonaws.com/hi5fechallenge/thor-ragnarok-poster-main.jpg",
+    "trailerID": "ue80QwXMRHg",
+    "universe": "marvel"
+  },
+  {
+    "title": "Black Panther",
+    "released": "February 16, 2018",
+    "poster":
+      "//s3-us-west-1.amazonaws.com/hi5fechallenge/Black-Panther-poster-main-xl.jpg",
+    "trailerID": "xjDjIWPwcPU",
+    "universe": "marvel"
+  },
+  {
+    "title": "Avengers: Infinity War",
+    "released": "April 27, 2018",
+    "poster":
+      "//s3-us-west-1.amazonaws.com/hi5fechallenge/infinity-war-poster-new.jpg",
+    "trailerID": "6ZfuNTqbHE8",
+    "universe": "marvel"
+  }
+]
